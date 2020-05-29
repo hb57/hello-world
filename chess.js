@@ -1,3 +1,6 @@
+
+
+/* MODIFICT 1!!!!!!!!!!!!  */
 var clickedMenu = 'home';      //implicit home
 var curentLanguage  = 'rom';   //implicit rom
 var first = true;              //prima incarcare
